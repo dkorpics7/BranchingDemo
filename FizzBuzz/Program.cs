@@ -12,7 +12,7 @@ namespace FizzBuzz
         {
             //assign numbers from 1 to 100 as FIZZ if multiple of 3, BUZZ for multiples of 5, and FIZZBUZZ for multiples of both
 
-            for (int num = 1; num<101; num++)
+            for (int num = 1; num<201; num++)
             {
                 if (num % 3 == 0 && num % 5 == 0)
                 {
